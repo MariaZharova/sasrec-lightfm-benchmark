@@ -14,7 +14,7 @@ Offline benchmark of candidate models for the recommendations feed.
 SASRec improved key offline ranking metrics ~2× over the baseline.
 
 ## Stack
-Python, PyTorch, pandas
+Python, TensorFlow, pandas
 
 ## Limitations
 Offline evaluation only; results were not validated in an online A/B test.
